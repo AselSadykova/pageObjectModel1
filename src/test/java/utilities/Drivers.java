@@ -13,6 +13,7 @@ public class Drivers {
 public static WebDriver getDriver() {
 	 if(driver != null) {
 		 //comment another comment
+		 //comment
          return driver;  // if the driver object was created before, 
          //it’s not null so it will return driver and the code will be terminated 
 	 }
